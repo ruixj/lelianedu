@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">互为师</string>
+    
+    <string name="ActivityMainTitle">互为师</string>
+    
+    <string name="main_navigation_home">首页</string>
+    <string name="main_navigation_catagory">素材</string>
+    <string name="main_navigation_car">搜索</string>
+    <string name="main_code_buy">二维码</string>
+    <string name="main_navigation_more">教程</string>
+
+</resources>
